@@ -1,0 +1,25 @@
+title: A Typical New Standard ITS101
+author: IAJG
+layout: post
+permalink: /NStandards/ITS101
+categories:
+  - policy
+---
+Ingwi IT Standards are corporate documents from the CIO defining the premises on how Ingwi systems should be managed. 
+
+All CIO Standards now follow a Risk, Policy, Control format to define each requirement.
+Deviations to each element in a Standard must be documented in the [WWBCIT] [WWBCIT] tool.  The process for creating and submitting a deviation for approval is [here] [here]
+
+- **Risk** -- What is the risk that this element covers? Example: By not having capacity management processes, the system may run slow at critical times of month/year. 
+
+- **Policy** -- Capacity Management must be done, on an ongoing basis.
+
+- **Control** -- Report, preferably automated, must be created frequently, and reported to the Application Squad
+
+- **Additional Control Statement** -- Documented proof of frequent review and resulting decisions, must be kept. 
+
+Note - That this policy does not state the frequency, format, tools or other implementation detail.  That is for the owning Squad.
+
+ [WWBCIT]: https://w3-01.sso.ibm.com/finance/controls/wwbcit/welcome.wss //github.com/AGWA/git-crypt "wwBCITit"
+[here]: https://www.dilbert.com “processy”
+ [social-coding]: https://whitewater.ibm.com/field-guide/practices/social-coding "Social Coding"
